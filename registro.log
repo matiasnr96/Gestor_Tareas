@@ -1,0 +1,8 @@
+
+2025-06-26 23:55:33,976 - INFO - Tarea agregada: {'id': 1, 'titulo': 'Programacion 1', 'descripcion': 'Estudiar para el parcial', 'prioridad': 'alta', 'estado': 'pendiente'}
+2025-06-26 23:56:10,653 - INFO - Tarea agregada: {'id': 2, 'titulo': 'Arturo', 'descripcion': 'Sacar a pasear al perro Arturo', 'prioridad': 'baja', 'estado': 'pendiente'}
+2025-06-26 23:56:34,823 - INFO - Tarea agregada: {'id': 3, 'titulo': 'Almuerzo', 'descripcion': 'Prepara el almuerzo para mañana', 'prioridad': 'baja', 'estado': 'pendiente'}
+2025-06-26 23:57:04,986 - INFO - Tarea agregada: {'id': 4, 'titulo': 'Reporte', 'descripcion': 'Imprimir el reporte de Ventas para la Reunion', 'prioridad': 'alta', 'estado': 'pendiente'}
+2025-06-26 23:57:27,604 - INFO - Tarea completada: {'id': 2, 'titulo': 'Arturo', 'descripcion': 'Sacar a pasear al perro Arturo', 'prioridad': 'baja', 'estado': 'completada'}
+2025-06-26 23:57:35,854 - INFO - Tarea eliminada con ID: 4
+2025-06-26 23:59:22,497 - INFO - Tarea agregada: {'id': 4, 'titulo': 'Informe Grafico', 'descripcion': 'Terminar de trabajar el archivo de PowerBI .', 'prioridad': 'media', 'estado': 'pendiente'}

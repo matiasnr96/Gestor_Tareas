@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Programacion 1",
+        "descripcion": "Estudiar para el parcial",
+        "prioridad": "alta",
+        "estado": "pendiente"
+    },
+    {
+        "id": 2,
+        "titulo": "Arturo",
+        "descripcion": "Sacar a pasear al perro Arturo",
+        "prioridad": "baja",
+        "estado": "completada"
+    },
+    {
+        "id": 3,
+        "titulo": "Almuerzo",
+        "descripcion": "Prepara el almuerzo para ma\u00f1ana",
+        "prioridad": "baja",
+        "estado": "pendiente"
+    },
+    {
+        "id": 4,
+        "titulo": "Informe Grafico",
+        "descripcion": "Terminar de trabajar el archivo de PowerBI .",
+        "prioridad": "media",
+        "estado": "pendiente"
+    }
+]
